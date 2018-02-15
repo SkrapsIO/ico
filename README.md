@@ -4,4 +4,4 @@ Skraps ICO Smart Contract &amp; Token
 
 > [Skraps](https://skraps.io/) helps you invest your spare change from everyday purchases into a diversified crypto portfolio of your choosing.
 
-You can see the deployed contract in [etherscan.io/address/0x6e34d8d84764d40f6d7b39cd569fd017bf53177d](https://etherscan.io/address/0x6e34d8d84764d40f6d7b39cd569fd017bf53177d#code)
+You can see the deployed contract in [etherscan.io/address/0x324a48ebcbb46e61993931ef9d35f6697cd2901b](https://etherscan.io/address/0x324a48ebcbb46e61993931ef9d35f6697cd2901b#code)
